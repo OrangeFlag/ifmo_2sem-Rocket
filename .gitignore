@@ -1,0 +1,9 @@
+./build
+./dist
+./__*
+./idea
+./Doc.docx
+./Doc.odt
+./Rocket_Linux
+./Rocket_Windows.exe
+./Start_.spec
